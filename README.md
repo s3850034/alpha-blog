@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+This is my first ever web application, The Alpha Blog.
+Ive utilised Ruby on Rails to develop this app.
+
